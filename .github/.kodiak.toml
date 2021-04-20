@@ -1,0 +1,11 @@
+# Full docs: https://kodiakhq.com/docs/config-reference
+# Ideas for improvement: https://accomango.productboard.com/feature-board/2608634-technical-backlog/features/7481864/detail (subfeatures)
+
+# Minimal config. version is the only required field.
+version = 1
+
+[merge]
+automerge_label = "kodiak: 🚀merge me!"
+
+[update]
+autoupdate_label = "kodiak: ⤵️update me!"
